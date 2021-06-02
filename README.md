@@ -1,17 +1,13 @@
-# altiumPCBdesign
-PCB design altium
-#### Nixieklok
+#### nixie clock
+The NIXIE tube was originally developed in 1952 by the Haydu brothers for the Burroughs company as a precursor to the computer monitor. The experimental name "Numerical Indicator Experimental: NIX-i" was first a working name belonging to the Burroughs company but later became the common name for this readout.
 
-De NIXIE buis werd oorspronkelijk ontwikkeld in 1952 door de broers Haydu voor het bedrijf Burroughs als voorloper op de computermonitor. De experimentele naam "Numerical Indicator Experimental: NIX-i" was eerst een werknaam welke tot het bedrijf Burroughs behoorde maar werd later de gemeenschappelijke naam voor deze uitlezing.
+From the early 1950s through the 1970s, these Nixie tubes served as the dominant display. Later they were supplanted by LED displays and are quite rare these days!
 
-Van de vroege jaren '50 tot aan de jaren '70 deden deze buizen van Nixie dienst als dominante vertoning. Later werden zij verdrongen door LED displays en zijn tegenwoordig vrij zeldzaam!
+They found their way into test equipment, early computers, aerospace, undersea and showing the stock prices on the New York stock exchange. While LEDs are technically more advanced, their aesthetic appearance leaves much to be desired.
 
-Zij vonden hun weg in testmateriaal, vroege computers, de ruimtevaart, onderzee en vertoning van de beurskoersen op de New York stock exchange. Terwijl LED's technisch geavanceerder zijn, laat hun esthetische uitstraling te wensen over.
+#### How does it work?
+The digits of a Nixie consist of ten thin metal electrodes that are individually shaped and can take on uneven curves and oblique lines. The only technical flaw is based on the fact that the numbers are stacked for each other; this causes tiny gaps. Ironically, they were hardly used as clock displays. Their popularity has declined dramatically in recent years. Today their historical value is greatly increased. In essence, they are like miniature neon signs with a warm, comforting orange/violet glow. Nixie clocks have become very popular as a way to bring these devices out of the dark.
 
-#### Hoe werkt het?
+Each glass tube contains 10 or more individual cathode wires in the form of numbers or letters. The cathodes are stacked so that the different figures at different depths, unlike a plane display, appear in the same plane to the viewer. The anode is a transparent metal mesh that wraps around the front of the tube.
 
-De cijfers van een Nixie bestaan uit tien dunne metaalelektroden die individueel worden gevormd en ongelijke krommingen en schuine lijnen kunnen aannemen. Het enige technische gebrek is gebaseerd op het feit dat de cijfers voor elkaar worden gestapeld; dit veroorzaakt uiterst kleine hiaten. Ironisch genoeg werden zij nauwelijks gebruikt als klokdisplay. De laatste jaren daalde hun populariteit dramatisch. Tegenwoordig wordt hun historische waarde sterk verhoogd. In essentie zijn zij als miniatuur neontekens met een warme, troostende oranje/violette gloed. Nixie klokken zijn zeer populair geworden als manier om deze apparaten uit het donker te brengen.
-
-Elke glasbuis bevat 10 of meer individuele kathodedraden in de vorm van getallen of letters. De kathoden worden gestapeld zodat de verschillende cijfers bij verschillende diepten, in tegenstelling tot een vlakvertoning, in het zelfde vlak lijken ten opzichte van de kijker. De anode is een transparant metaalnetwerk dat zich rond de voorzijde van de buis bevindt.
-
-De buis wordt gevuld met het inert neongas (en andere gassen) met een kleine hoeveelheid kwik. Wanneer een gelijkspanning van 120 tot 180 volt tussen de anode en willekeurig welke kathode wordt gezet, slaat het gas neer op de dichts bijzijnde kathode en zal het cijfer een prachtige gloed uitstralen.
+The tube is filled with the inert neon gas (and other gases) with a small amount of mercury. When a DC voltage of 120 to 180 volts is applied between the anode and any cathode, the gas will settle on the closest cathode and the figure will emit a beautiful glow.
